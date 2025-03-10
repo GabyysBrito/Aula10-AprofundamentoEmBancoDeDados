@@ -1,6 +1,6 @@
 # 📌 Anotações de Banco de Dados
 
-## 📚 Aprofundamento em Banco de dados parte 2
+## 📚 Aprofundamento em Banco de dados parte
 
 <br> 
 
