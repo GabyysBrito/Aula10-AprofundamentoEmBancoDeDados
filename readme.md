@@ -83,3 +83,5 @@
 > id INT AUTO_INCREMENT PRIMARY KEY
 
 > nome VARCHAR(50) NOT NULL
+
+© Direitos autorais de todas as imagens do curso da Vai na Web
